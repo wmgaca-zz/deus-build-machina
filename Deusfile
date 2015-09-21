@@ -1,0 +1,4 @@
+trigger: tags
+
+build:
+  - make docker
